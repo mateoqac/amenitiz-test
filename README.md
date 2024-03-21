@@ -9,7 +9,7 @@ This application is a simple cash register that allows users to scan products an
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/mateoqac/amenitiz-test.git
+   git clone git@github.com:mateoqac/amenitiz-test.git
    ```
 
 2. Navigate to the directory
