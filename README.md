@@ -39,3 +39,16 @@ This application is a simple cash register that allows users to scan products an
    Total price before discounts: 13.11 €
    Discount applied: 1.00 €
    Total price after discounts: 12.11 €
+   ```
+
+
+#### Running the tests
+
+1. Install dependencies using Bundler
+   ```bash
+   bundle install
+   ```
+2. Run the tests
+   ```bash
+   bundle exec rspec
+   ```
