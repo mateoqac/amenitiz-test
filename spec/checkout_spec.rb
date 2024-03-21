@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require './checkout'
-require './product'
+require './models/checkout'
+require './models/product'
 
 RSpec.describe 'Checkout' do
   let(:checkout) { Checkout.new }

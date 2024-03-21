@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require './product'
-require './checkout'
+require './models/product'
+require './models/checkout'
 
 module Main
   PRODUCTS = {
